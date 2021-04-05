@@ -30,8 +30,8 @@ test:
 
 about:
   home: https://github.com/openmodelingfoundation/SimpleCrop
-  license: MIT
-  license_family: MIT
+  license: BSD-3-Clause
+  license_family: BSD
   license_file: LICENSE.md
   summary: 'An approach for modular crop model development'
   description: |
